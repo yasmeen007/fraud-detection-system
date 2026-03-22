@@ -49,11 +49,8 @@ Transaction → Model → Fraud Probability → Decision Layer
 
 ## 📊 Sample Output
 
-### 🔹 Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
-
-### 🔹 SHAP Feature Importance
-![SHAP Plot](images/shap_plot.png)
+![Confusion Matrix](confusion_matrix.png)
+![SHAP Plot](shap_plot.png)
 
 ---
 
