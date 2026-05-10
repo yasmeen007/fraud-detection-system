@@ -54,6 +54,19 @@ Transaction → Model → Fraud Probability → Decision Layer
 
 ---
 
+## 🛠️ Tech Stack
+
+- Python
+- Scikit-learn
+- XGBoost / LightGBM
+- Pandas & NumPy
+- SHAP
+- Matplotlib / Seaborn
+- Imbalanced-learn (SMOTE)
+- Jupyter Notebook
+
+---
+
 ## 📈 Key Insights
 
 - High recall ensures most fraud cases are detected  
